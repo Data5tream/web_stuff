@@ -9,7 +9,8 @@ let cfiles: Array<string> = [
     '/web_stuff/pwa/',
     '/web_stuff/pwa/index.html',
     '/web_stuff/pwa/dist/js/app.min.js',
-    '/web_stuff/pwa/dist/css/style.min.css'
+    '/web_stuff/pwa/dist/css/style.min.css',
+    '/web_stuff/pwa/dist/img/logo.png'
 ];
 
 self.addEventListener('install', function(e) {
