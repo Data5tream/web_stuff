@@ -1,0 +1,16 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+.container {
+    max-width: 720px;
+    margin: auto;
+
+    .inner {
+        padding: 16px;
+
+        .title {
+            text-align: center;
+        }
+    }
+}

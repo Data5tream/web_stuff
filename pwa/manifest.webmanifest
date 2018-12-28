@@ -1,0 +1,16 @@
+{
+    "name": "WebStuff PWA App",
+    "short_name": "d5webstuffPWA",
+    "description": "A PWA Experiment",
+    "icons": [
+        {
+            "src": "dist/img/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/web_stuff/pwa/index.html",
+    "display": "standalone",
+    "theme_color": "#333",
+    "background_color": "#333"
+}
